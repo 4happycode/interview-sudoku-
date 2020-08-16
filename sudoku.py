@@ -1,3 +1,6 @@
+# Best Regard,
+# Wari Nur Raharjo
+
 import numpy as np
 
 
@@ -128,3 +131,7 @@ else:
 	print("\n", "_________+__________", "\n")
 
 	calculated(board)
+
+
+# Best Regard,
+# Wari Nur Raharjo
